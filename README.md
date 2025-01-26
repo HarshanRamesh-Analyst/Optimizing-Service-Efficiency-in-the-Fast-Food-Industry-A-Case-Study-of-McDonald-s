@@ -1,5 +1,9 @@
 # Optimizing Service Efficiency in the Fast-Food Industry: A Case Study of McDonald's
 
+<p align="center">
+  <img src="Report/mc.png" alt="Alt text">
+</p>
+
 This repository contains an analysis of strategies to enhance service efficiency at McDonald's, focusing on reducing queue times and optimizing resource allocation through data-driven insights and simulation modeling.
 
 ## Table of Contents
